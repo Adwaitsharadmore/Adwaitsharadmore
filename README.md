@@ -9,15 +9,12 @@
 
 - 🔭 I’m currently working on **Brev**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adwaitatpeak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adwaitatpeak" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/adwait-more-34103b248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adwait-more-34103b248/" height="30" width="40" /></a>
-<a href="https://medium.com/@adwaitsharadmore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adwaitsharadmore" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
